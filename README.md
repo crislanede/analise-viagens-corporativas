@@ -61,5 +61,4 @@ e centro de custos.
 ---
 
 ## 📎 Observação
-Os dados utilizados neste projeto foram anonimizados e utilizados
-exclusivamente para fins de portfólio.
+Os dados e valores apresentados neste projeto são fictícios/simulados e foram utilizados exclusivamente para fins de portfólio, não representando informações reais de nenhuma empresa.
